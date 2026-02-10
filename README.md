@@ -83,6 +83,16 @@ python3 fb_bot.py
 
 <p align="center"><img src="./Image/Picsart_26-02-10_16-53-44-465.jpg">
 
+<p align="center">
+  <a href="https://youtu.be/Rq2iaY57bwY">
+    <img src="https://img.youtube.com/vi/Rq2iaY57bwY/maxresdefault.jpg" width="650">
+  </a>
+  <br><br>
+  <a href="https://youtu.be/Rq2iaY57bwY">
+    <img src="https://img.shields.io/badge/▶%20Watch%20Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</p>
+
 
 <h2 align="center">LICENSE</h2>
 
