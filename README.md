@@ -64,8 +64,7 @@ python3 fb_bot.py
 
 <h3 align="center"><b>TERMUX > </b></h3>
 
-<p align="center"><img src="./image/demo1.jpg">
-<p align="center"><img src="./image/demo2.jpg">
+<p align="center"><img src="./Image/Picsart_26-02-10_16-53-44-465.jpg">
 
 
 <h2 align="center">LICENSE</h2>
@@ -78,10 +77,6 @@ FB AUTO COMMENT is released under the AGPL-3.0 license, which grants the followi
 - Private use
 
 For more convoluted language, see the [LICENSE](/LICENSE).
-</br>
-
-<p align="center">  <a href="https://t.me/TheU7p4lArmyX"><img width="300" height="100" src="https://i.imgur.com/N7AK7XY.png"></a></p>
-
 </br>
 
 # Report bugs
