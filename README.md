@@ -1,6 +1,6 @@
 # Facebook Auto Comment 
 
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AUTO%20COMMENT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Create%20By%20Abdullha=51&descAlign=62" width="100%"/>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AUTO%20COMMENT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Create%20By%20Abdullha&descAlign=62" width="100%"/>
 </p>
 
 
