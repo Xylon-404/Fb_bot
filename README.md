@@ -6,8 +6,8 @@
 
 <h2 align="center">FB POST AUTO COMMENT</h2>
 
-  <div align="center"><a href="Xylon-404/Fb_bot/stargazers/"><img src="https://custom-icon-badges.demolab.com/github/stars/U7P4L-IN/Comment?label=Stars&logo=star&labelColor=302d41&color=c9cbff&logoColor=d9e0ee&style=for-the-badge" alt="Stars"></a><a href="https://github.com/Xylon-404/Fb_bot/network/members/"><img src="https://custom-icon-badges.demolab.com/github/forks/U7P4L-IN/Comment?label=Forks&logo=fork&labelColor=302d41&color=b5e8e0&logoColor=d9e0ee&style=for-the-badge" alt="Forks"></a><a href="https://github.com/Xylon-404/Fb_bot/issues"><img src="https://custom-icon-badges.demolab.com/github/issues/U7P4L-IN/Comment?label=Issues&labelColor=302d41&color=f5a97f&logoColor=d9e0ee&logo=issue&style=for-the-badge" alt="Issues"/></div>
-  <div align="center"></a><a href="https://github.com/Xylon-404/Fb_bot/pull"><img src="https://custom-icon-badges.demolab.com/github/issues-pr/U7P4L-IN/Comment?&label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs"/></a><a href="https://github.com/U7P4L-IN/Comment/archive/refs/heads/master.zip"><img src="https://custom-icon-badges.demolab.com/github/languages/code-size/U7P4L-IN/Comment?label=Download&logo=download&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge" alt="Download .zip"></a></div></br>
+  <div align="center"><a href="Xylon-404/Fb_bot/stargazers/"><img src="https://custom-icon-badges.demolab.com/github/stars/Xylon-404/Comment?label=Stars&logo=star&labelColor=302d41&color=c9cbff&logoColor=d9e0ee&style=for-the-badge" alt="Stars"></a><a href="https://github.com/Xylon-404/Fb_bot/network/members/"><img src="https://custom-icon-badges.demolab.com/github/forks/Xylon-404/Comment?label=Forks&logo=fork&labelColor=302d41&color=b5e8e0&logoColor=d9e0ee&style=for-the-badge" alt="Forks"></a><a href="https://github.com/Xylon-404/Fb_bot/issues"><img src="https://custom-icon-badges.demolab.com/github/issues/Xylon-404/Comment?label=Issues&labelColor=302d41&color=f5a97f&logoColor=d9e0ee&logo=issue&style=for-the-badge" alt="Issues"/></div>
+  <div align="center"></a><a href="https://github.com/Xylon-404/Fb_bot/pull"><img src="https://custom-icon-badges.demolab.com/github/issues-pr/Xylon-404/Comment?&label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs"/></a><a href="https://github.com/Xylon-404/Comment/archive/refs/heads/master.zip"><img src="https://custom-icon-badges.demolab.com/github/languages/code-size/Xylon-404/Comment?label=Download&logo=download&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge" alt="Download.zip"></a></div></br>
 
 ## Language</br>
 
@@ -83,8 +83,6 @@ For more convoluted language, see the [LICENSE](/LICENSE).
 If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: info@one-x.top">Gmail</a> or Open an issue via github.
 
 <h3 align="center"><b>DESCRIPTION</b></h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=U7P4L-IN&repo=Comment&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="100%"/>
-</p>
 
 > [!NOTE]  
 > All the tools are belongs to their copyright owner, and this use is in accordance with the terms and conditions of the copyright holder.
