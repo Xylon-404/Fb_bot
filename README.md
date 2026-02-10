@@ -6,9 +6,26 @@
 
 <h2 align="center">FB POST AUTO COMMENT</h2>
 
-  <div align="center"><a href="Xylon-404/Fb_bot/stargazers/"><img src="https://custom-icon-badges.demolab.com/github/stars/Xylon-404/Comment?label=Stars&logo=star&labelColor=302d41&color=c9cbff&logoColor=d9e0ee&style=for-the-badge" alt="Stars"></a><a href="https://github.com/Xylon-404/Fb_bot/network/members/"><img src="https://custom-icon-badges.demolab.com/github/forks/Xylon-404/Comment?label=Forks&logo=fork&labelColor=302d41&color=b5e8e0&logoColor=d9e0ee&style=for-the-badge" alt="Forks"></a><a href="https://github.com/Xylon-404/Fb_bot/issues"><img src="https://custom-icon-badges.demolab.com/github/issues/Xylon-404/Comment?label=Issues&labelColor=302d41&color=f5a97f&logoColor=d9e0ee&logo=issue&style=for-the-badge" alt="Issues"/></div>
-  <div align="center"></a><a href="https://github.com/Xylon-404/Fb_bot/pull"><img src="https://custom-icon-badges.demolab.com/github/issues-pr/Xylon-404/Comment?&label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs"/></a><a href="https://github.com/Xylon-404/Comment/archive/refs/heads/master.zip"><img src="https://custom-icon-badges.demolab.com/github/languages/code-size/Xylon-404/Comment?label=Download&logo=download&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge" alt="Download.zip"></a></div></br>
+<div align="center">
+  <a href="https://github.com/Xylon-404/Fb_bot/stargazers">
+    <img src="https://custom-icon-badges.demolab.com/github/stars/Xylon-404/Fb_bot?label=Stars&logo=star&labelColor=302d41&color=c9cbff&logoColor=d9e0ee&style=for-the-badge" alt="Stars">
+  </a>
+  <a href="https://github.com/Xylon-404/Fb_bot/network/members">
+    <img src="https://custom-icon-badges.demolab.com/github/forks/Xylon-404/Fb_bot?label=Forks&logo=fork&labelColor=302d41&color=b5e8e0&logoColor=d9e0ee&style=for-the-badge" alt="Forks">
+  </a>
+  <a href="https://github.com/Xylon-404/Fb_bot/issues">
+    <img src="https://custom-icon-badges.demolab.com/github/issues/Xylon-404/Fb_bot?label=Issues&labelColor=302d41&color=f5a97f&logoColor=d9e0ee&logo=issue&style=for-the-badge" alt="Issues">
+  </a>
+</div>
 
+<div align="center">
+  <a href="https://github.com/Xylon-404/Fb_bot/pulls">
+    <img src="https://custom-icon-badges.demolab.com/github/issues-pr/Xylon-404/Fb_bot?label=Pull%20Requests&labelColor=302d41&color=ddb6f2&logoColor=d9e0ee&logo=git-pull-request&style=for-the-badge" alt="PRs">
+  </a>
+  <a href="https://github.com/Xylon-404/Fb_bot/archive/refs/heads/master.zip">
+    <img src="https://custom-icon-badges.demolab.com/github/languages/code-size/Xylon-404/Fb_bot?label=Download&logo=download&labelColor=302d41&color=b7bdf8&logoColor=d9e0ee&style=for-the-badge" alt="Download.zip">
+  </a>
+</div>
 ## Language</br>
 
  <p align="center"><img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/>
