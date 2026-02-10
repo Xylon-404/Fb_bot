@@ -60,7 +60,7 @@ cd Fb_bot
 chmod +x *
 python3 fb_bot.py
 ```
-<p align="center"><img src="./image/carbon.png">
+<p align="center"><img src="./Image/ABDULLHA.png">
 
 <h3 align="center"><b>TERMUX > </b></h3>
 
