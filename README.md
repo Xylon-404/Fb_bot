@@ -1,5 +1,6 @@
-# Fb_bot
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AUTO%20COMMENT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FB%20POST%20AUTO%20COMMENT%20FOR%20WORKING%20ON%20PUBLIC%20ID&descAlignY=51&descAlign=62" width="100%"/>
+# Facebook Auto Comment 
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=AUTO%20COMMENT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Create%20By%20Abdullha=51&descAlign=62" width="100%"/>
 </p>
 
 
