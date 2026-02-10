@@ -51,14 +51,14 @@ And some other python packages
 ```python
 apt update && apt upgrade -y
 pkg install git
-pkg install python
+pkg install python3 -y
 pip install requests
 pip install bs4
-rm -rf Comment
-git clone --depth=1 https://github.com/U7P4L-IN/Comment.git
-cd Comment
+rm -rf Fb_bot
+git clone --depth=1 https://github.com/Xylon-404/Fb_bot.git
+cd Fb_bot
 chmod +x *
-python main.py
+python3 fb_bot.py
 ```
 <p align="center"><img src="./image/carbon.png">
 
@@ -67,10 +67,6 @@ python main.py
 <p align="center"><img src="./image/demo1.jpg">
 <p align="center"><img src="./image/demo2.jpg">
 
-<h3 align="center"><b>KALI LINUX > </b></h3>
-
-<p align="center"><img src="./image/demo3.png">
-<p align="center"><img src="./image/demo4.png">
 
 <h2 align="center">LICENSE</h2>
 
@@ -89,7 +85,7 @@ For more convoluted language, see the [LICENSE](/LICENSE).
 </br>
 
 # Report bugs
-If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: lisame0007@gmail.com">Gmail</a> or Open an issue via github.
+If you notice issues while installing this tool or running this tool kindly mail to me at <a href="mailto: info@one-x.top">Gmail</a> or Open an issue via github.
 
 <h3 align="center"><b>DESCRIPTION</b></h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=U7P4L-IN&repo=Comment&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" width="100%"/>
